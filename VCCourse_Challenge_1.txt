@@ -1,0 +1,1 @@
+This is a line of text, in a file used for the VC course challenge.
